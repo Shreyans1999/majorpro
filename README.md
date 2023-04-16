@@ -1,1 +1,1 @@
-# majorpro
+# majorproject
